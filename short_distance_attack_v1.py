@@ -25,7 +25,7 @@ def attack(Enemy):
 		#Wenn nicht	
 		else: 
 			print("Der Angriff trifft nicht")
-	#elif Enemy["HP"] <= 0:
+	
 		
 		
 	#	If-Schleife für HP Abfrage nach Angriff

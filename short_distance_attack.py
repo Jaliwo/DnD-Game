@@ -97,7 +97,7 @@ def simulation_auswahl():
 			if Enemy_1["HP"] == 0:
 				break
 			else:
-				print(f"Angriff auf von " + Enemy_1["Name"]+ " auf " + Charackter["Name"])	
+				print(Enemy_1["Name"] + " greift " + Charackter["Name"] + " an")	
 				attack(Charackter)
 				break
 			
@@ -109,7 +109,7 @@ def simulation_auswahl():
 			if Enemy_2["HP"] == 0:
 				break
 			else:
-				print(f"Angriff auf von " + Enemy_2["Name"]+ " auf " + Charackter["Name"])	
+				print(Enemy_2["Name"] + " greift  " + Charackter["Name"] + " an")	
 				attack(Charackter)
 				break	
 		

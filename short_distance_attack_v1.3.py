@@ -234,3 +234,5 @@ def simulation_durchlauf_anzahl():
 		print("Anzahl Gegner gewonnen: " + str(anzahl_gegner_gewinnt) + "\n")
 		
 simulation_durchlauf_anzahl()
+#simulation_auswahl()
+#simulation_durchlauf()

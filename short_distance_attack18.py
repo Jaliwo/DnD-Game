@@ -1,7 +1,7 @@
 
 import copy
 import random
-from tkinter import Y
+
 import time
 
 # Personen-Werte
@@ -500,17 +500,5 @@ def copy_zurück_2():
         
         
 
-#copy_hin_2()
-#print(Chars_copy)
-
-#print(Chars_copy)
-
-
-
-#simulation_durchlauf_anzahl()
-#simulation_auswahl()
-#simulation_durchlauf()
-
-spiel_auswahl_endlossschleife()
-#werte_aendern()
+simulation_auswahl()
 

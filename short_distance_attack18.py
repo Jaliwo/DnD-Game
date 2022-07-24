@@ -281,8 +281,6 @@ def simulation_durchlauf_anzahl():
 def spiel_auswahl_endlossschleife():
     game = True
     Charakter["Name"] = input("Gib den Namen deines Helden ein, diesen Kannst du während des Spiels nicht mehr ändern! \n")
-    if Charakter["Name"] == "Hurensohn":
-        print("Du bist wahrlich ein Hurensohn, auf in die Schlacht Hurensohn")
     
   
     while True:
